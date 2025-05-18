@@ -23,9 +23,6 @@ This is a full-stack web application developed using the MERN stack. The applica
 
 **API:** OpenAI's DALL-E
 
-## Demo
-
-https://ai-image-gen-by-saivamsi.netlify.app/
 
 
 ## 📸 Screenshots
